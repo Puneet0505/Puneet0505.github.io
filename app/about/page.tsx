@@ -21,7 +21,7 @@ export default function AboutPage() {
             <div className="shrink-0">
               <div className="relative h-48 w-48 overflow-hidden rounded-2xl border-2 border-accent/20 shadow-md">
                 <Image
-                  src="/images/profile-placeholder.jpg"
+                  src="/images/profile_picture.jpg"
                   alt="Profile photo"
                   fill
                   className="object-cover"
